@@ -6,14 +6,19 @@
 
 <br>
 
- ### - 🔭 I'm looking for an junior developer position. 
+ ### - 🔭 I'm looking for an junior developer position.  
+
+ ### - 🌴 In my free time, I enjooy outdoor activities like hiking
+
+ ### - 🙋🏼‍♀️ My work experience is based on customer service
 
  <br>
  <br>
 
 **Hard Skills**
 
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)] [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)] 
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 <br>
 <br>
