@@ -1,16 +1,22 @@
-### Hi there 👋
+# *Hello World 🌎, I'm Gabriela 👋🏼*
 
-<!--
-**Gabileichtweis/Gabileichtweis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a Full Stack Web Developer Student  👩🏼‍💻💻 
+
+<br>
+
+ ### - 🔭 I'm looking for an junior developer position. 
+
+ <br>
+ <br>
+
+**Hard Skills**
+
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)] [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)] 
+
+<br>
+<br>
+<br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-leichtweis-2044b723b/)
