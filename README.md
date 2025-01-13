@@ -27,7 +27,7 @@
 
 <br/>
 
-## How ro find me
+## How to find me
 
 [![Linkedin](https://img.shields.io/badge/-Gabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-leichtweis-2044b723b/)](https://www.linkedin.com/in/gabriela-leichtweis-2044b723b/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielaleichtweis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielaleichtweis@gmail.com.br)](mailto:gabrielaleichtweis@gmail.com)
