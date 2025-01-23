@@ -30,6 +30,5 @@
 
 ## How to find me
 
-[![Linkedin](https://img.shields.io/badge/-Gabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-leichtweis-2044b723b/)](https://www.linkedin.com/in/gabriela-leichtweis-2044b723b/)
+[![Linkedin](https://img.shields.io/badge/-Gabriela-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gabriela-leichtweis-2044b723b/)](https://www.linkedin.com/in/gabriela-leichtweis-2044b723b/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielaleichtweis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielaleichtweis@gmail.com.br)](mailto:gabrielaleichtweis@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/Gabileichtweis))
